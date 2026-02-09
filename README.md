@@ -1,3 +1,5 @@
-# converter for most of the currencies
+# My random projs
 
-exchange rates update from frankfurter.app
+created a currency-converter function
+created a cipher function
+creater a luhn-alforithm function
